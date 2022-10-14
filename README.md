@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Saharsh](https://drive.google.com/uc?id=1zZAjnazJkL4nHabSQWes5WefabUOHP36)
+![Saharsh](https://github.com/Saharsh1005/Saharsh1005/blob/master/saharsh_banner_white.jpg)
 
 I love to add intelligence to inanimate objects through code. I believe computers are like an extention of our mind and make us super-humans.
 
