@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 I love to add intelligence to inanimate objects through code. I believe computers are like an extention of our mind and make us super-humans.
 
-I am a proud CS alum of Manipal Institute of Technology. During my tenure as a student, I conducted research with prof. Radhika Kamath and also worked alongside UNSW Sydney transitional-AI group on tackling issues like weed detection and coral reef mapping. I am deeply passionate about leveraging AI to bring societal impact. Let's code for good.
+Presently, I am pursuing a Master in Computer Science at the University of Illinois Urbana-Champaign and working as a Graduate Student Researcher at [Coordinated Science Lab](https://healtheng.illinois.edu/). I am also a proud CS alum of the Manipal Institute of Technology. I have worked as an ML Scientist at Onward Assist for a year, developing AI-enabled tools to assist pathologists in slide reporting and diagnostic tasks. During my undergraduate, I was advised by Prof. Radhika Kamath and I also worked alongside UNSW Sydney transitional-AI group (advised by Dr. Rohitash Chandra) on tackling issues like weed detection and coral reef mapping. I am passionate about leveraging AI to bring societal impact. 
+
+Let's code for good!
 
 <br/>
 <p align="center"><a href="https://twitter.com/terabyte_17"><a href="https://www.linkedin.com/in/saharshbarve/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/saharsh.10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
