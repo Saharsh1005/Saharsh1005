@@ -23,9 +23,6 @@ Presently, I am pursuing a Master in Computer Science at the University of Illin
 Let's code for good!
 
 <br/>
-<p align="center"><a href="https://twitter.com/terabyte_17"><a href="https://www.linkedin.com/in/saharshbarve/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/saharsh.10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
-
-<br/>
 
 > “If there is no struggle, there is no progress.” — Frederick Douglass.
 
