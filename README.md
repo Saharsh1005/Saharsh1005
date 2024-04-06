@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I love to add intelligence to inanimate objects through code. I believe computers are like an extention of our mind and make us super-humans.
 
-Presently, I am pursuing a Master in Computer Science at the University of Illinois Urbana-Champaign. My current research revolves around 3D scene reconstruction. I am fortunate to be advised by Prof. Derek Hoiem and Yuqun for my independent study. I am also a proud CS alum of the Manipal Institute of Technology. I have worked as an ML Scientist at Onward Assist for a year, developing AI-enabled tools to assist pathologists in slide reporting and diagnostic tasks. During my undergraduate, I was advised by Prof. Radhika Kamath and I also worked alongside UNSW Sydney transitional-AI group (advised by Dr. Rohitash Chandra) on tackling issues like weed detection and coral reef mapping. I am passionate about leveraging AI to bring societal impact. 
+Presently, I am pursuing a Masters in Computer Science at the University of Illinois Urbana-Champaign. My current research revolves around 3D scene reconstruction. I am fortunate to be advised by Prof. Derek Hoiem and Yuqun for my independent study. I am also a proud CS alum of the Manipal Institute of Technology. I have worked as an ML Scientist at Onward Assist for a year, developing AI-enabled tools to assist pathologists in slide reporting and diagnostic tasks. During my undergraduate, I was advised by Prof. Radhika Kamath and I also worked alongside UNSW Sydney transitional-AI group (advised by Dr. Rohitash Chandra) on tackling issues like weed detection and coral reef mapping. I am passionate about leveraging AI to bring societal impact. 
 
 Let's code for good!
 
