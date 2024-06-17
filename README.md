@@ -1,32 +1,13 @@
-### Hi there 👋 , I'm [Saharsh](https://github.com/Saharsh1005)
+🔍 I am dedicated to leveraging technology for societal impact.
+🎓 Advised by Prof. Koustuv Saha, my research focuses on Large Language Models for social computing and content moderation, enhancing safety and inclusivity on digital platforms. 🏢 Summer 2024 intern at Dragonfruit AI, developing surveillance software for retail security.
 
-<!--
- ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Previsously, worked as an ML Scientist at Onward Assist, developing AI-enabled tools for pathologists. , my machine learning work improved pathological analysis, demonstrating AI's practical benefits in healthcare. 🏥 My research at UIUC's Healthcare Engineering Systems Centre provided real-time mixed reality guidance to medical professionals for medical instrument tracking.
 
-Here are some ideas to get you started:
+🌊 I collaborated with UNSW Sydney on reef analysis during my undergrad at Manipal Institute of Technology, highlighting my commitment to environmental conservation. 🏆 J N Tata Scholarship recipient, exemplifying academic excellence and future impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ![Saharsh](https://github.com/Saharsh1005/Saharsh1005/blob/master/saharsh_banner_white.jpg) -->
+🎯 Areas of Expertise: Computer Vision, 3D Vision, Full Stack Software Engineering, Cloud (AWS)
+💻 Proud CS alum of Manipal Institute of Technology.
 
-I love to add intelligence to inanimate objects through code. I believe computers are like an extention of our mind and make us super-humans.
+🙌 Thankful to my professors and mentors: Prof. Saha, Prof. Hoiem, Prof. Forsyth, Prof. Chandra, Prof. Kamath, Prof. Avinash Gupta, Harris Nissar, Yuqun Wu, Mustaffa Hussain.
 
-Presently, I am pursuing a MS in Computer Science at the University of Illinois Urbana-Champaign (UIUC). My current research revolves around 3D scene reconstruction. I am fortunate to be advised by Prof. Derek Hoiem and Yuqun for my independent study. I am also a proud CS alum of the Manipal Institute of Technology. I have worked as an ML Scientist at Onward Assist for a year, developing AI-enabled tools to assist pathologists in slide reporting and diagnostic tasks. During my undergraduate, I was advised by Prof. Radhika Kamath and I also worked alongside UNSW Sydney transitional-AI group (advised by Dr. Rohitash Chandra) on tackling issues like weed detection and coral reef mapping. I am passionate about leveraging AI to bring societal impact. 
-
-Let's code for good!
-
-<br/>
-
-> “If there is no struggle, there is no progress.” — Frederick Douglass.
-
-<!-- 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Saharsh1005&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saharsh1005)](https://github.com/anuraghazra/github-readme-stats)
--->
+Let's code for good! 
