@@ -7,6 +7,6 @@ I hold a **B.Tech in Computer Science** from Manipal Institute of Technology.
 **Areas of focus:** Machine Learning, Software Engineering, Computer Vision, LLMs, Systems
 
 **Grateful to my mentors:**
-[Prof. Koustuv Saha](https://koustuv.com/), (Prof. Prerna Juneja)[https://prernajuneja.com/] [Prof. Derek Hoiem](https://dhoiem.cs.illinois.edu/), [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/), [Prof. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), [Prof. Radhika Kamath](https://www.manipal.edu/mit/department-faculty/faculty-list/radhika-kamath.html), [Prof. Avinash Gupta](https://hfaging.ahs.illinois.edu/avinash-gupta/), [Harris Nissar](https://www.linkedin.com/in/harris-nisar-1b090415a), [Yuqun Wu](https://yuqunw.github.io/)
+[Prof. Koustuv Saha](https://koustuv.com/), [Prof. Prerna Juneja](https://prernajuneja.com/) [Prof. Derek Hoiem](https://dhoiem.cs.illinois.edu/), [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/), [Prof. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), [Prof. Radhika Kamath](https://www.manipal.edu/mit/department-faculty/faculty-list/radhika-kamath.html), [Prof. Avinash Gupta](https://hfaging.ahs.illinois.edu/avinash-gupta/), [Harris Nissar](https://www.linkedin.com/in/harris-nisar-1b090415a), [Yuqun Wu](https://yuqunw.github.io/)
 
 Let’s build tech that makes a difference! 💡
