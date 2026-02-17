@@ -1,6 +1,6 @@
-Hi! 👋 I completed my MS in CS at the [University of Illinois, Urbana-Champaign](https://siebelschool.illinois.edu/academics/graduate/ms-program), advised by [Prof. Koustuv Saha](https://koustuv.com/) and was awarded J N Tata Scholarship. My thesis focused on developing a human-in-the-loop framework for stereotype detection in Text-to-Image models, using LLMs as social bias judges.
+Hi! I completed my MS in CS at the [University of Illinois, Urbana-Champaign](https://siebelschool.illinois.edu/academics/graduate/ms-program), advised by [Prof. Koustuv Saha](https://koustuv.com/) and was awarded [J N Tata Scholarship](https://jntataendowment.org/). My thesis focused on developing a human-in-the-loop framework for stereotype detection in Text-to-Image models, using LLMs as social bias judges.
 
-Currently, delivering computer vision at scale at [Dragonfruit AI](https://www.dragonfruit.ai/). Previously, worked as a ML Engineer at Onward Assist (vision for pathology automation).
+Currently, working as a Software Engineer at [Dragonfruit AI](https://www.dragonfruit.ai/) -- delivering computer vision for retail insights. Previously, worked as a ML Engineer at Onward Assist (vision for pathology automation).
 
 I hold a **B.Tech in Computer Science** from Manipal Institute of Technology.
 
